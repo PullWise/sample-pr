@@ -3,7 +3,7 @@ def test():
     print("Testing webhook...")
     print("Testing another webhook...")
     print("Testing PR diff...")
-    print("Testing PR diff 18...")
+    print("Testing PR diff 19...")
 
 
 test()
