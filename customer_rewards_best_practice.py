@@ -1,6 +1,3 @@
-from typing import List, Dict
-
-
 class Customer:
     """
     Represents a customer with a rewards points account.
